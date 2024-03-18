@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">Frontend Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **NodeJs with Express**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **React**
 
